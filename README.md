@@ -2,6 +2,7 @@
 ### Dataset Source : 
 https://www.kaggle.com/datasets/kashishparmar02/social-media-sentiments-analysis-dataset?resource=download
 <img width="422" alt="image" src="https://github.com/user-attachments/assets/449f8c67-aeca-482a-8db7-a2f8dd91572c">
+
 The dataset file, named sentimentsdataset.csv, encapsulates diverse social media insights. It comprises user-generated content, sentiment labels, timestamps, platform details, trending hashtags, user engagement metrics, and geographical origins. With additional columns for extracted date and time components, this dataset is a valuable resource for sentiment analysis, trend identification, and temporal analysis on social media platforms.
 Columns:
 ● Unnamed: 0: Index column (can be ignored)
